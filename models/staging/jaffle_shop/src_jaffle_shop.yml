@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: jaffle_shop
+  - name: jaffle_shop_2 #Se cambio de momento para avanzar con el curso, pero creo que este es el mas avanzado, quitar: '_2'
     description: A clone of a Postgres application database.
     database: raw
     schema: jaffle_shop
